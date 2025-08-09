@@ -1,10 +1,16 @@
 # ADF-Masterclass-
 use of azure data factory, and every compoenent and logic
 
+
+<img width="1625" height="416" alt="image" src="https://github.com/user-attachments/assets/83e02b4e-86c9-4f1e-a1fe-098ed7f93ab2" />
+
+<img width="1625" height="416" alt="image" src="https://github.com/user-attachments/assets/ad59ee49-72d6-4524-8da3-f44ac6a0b310" />
+
+
+<img width="1140" height="432" alt="image" src="https://github.com/user-attachments/assets/76ae2082-3ce2-45ad-a9d5-e88a6b0635d3" />
+
+
 <img width="1386" height="860" alt="image" src="https://github.com/user-attachments/assets/acdcf8da-5331-49b3-b80f-59c3d55a60b5" />
-
-<img width="1109" height="462" alt="image" src="https://github.com/user-attachments/assets/8ae5d587-2181-4c34-9506-14f55d233aca" />
-
 
 <img width="1082" height="348" alt="image" src="https://github.com/user-attachments/assets/55520074-dfe0-4205-8e86-126e499a9aac" />
 
